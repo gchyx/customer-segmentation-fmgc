@@ -27,8 +27,8 @@ Customers who purchased Sugary Drinks and/or Culinary items were scored across t
 
 | Dimension | Definition | Weight |
 |-----------|-----------|--------|
-| Recency | Days since last purchase | 15% |
-| Frequency | Total number of transactions | 28% |
+| Recency | Days since last purchase | 16% |
+| Frequency | Total number of transactions | 27% |
 | Monetary | Total spend | 57% |
 
 Each dimension was ranked and normalised (0–100), then combined into a weighted RFM score scaled to 1–5.
