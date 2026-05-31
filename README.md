@@ -9,7 +9,6 @@ A beverage supplier is launching the Coca-Cola brand and needs to acquire **100 
 
 The final output is a prioritised list of 100 customers with actionable segmentation to guide targeted outreach.
 
----
 
 ## Key Findings
 
@@ -17,7 +16,6 @@ The final output is a prioritised list of 100 customers with actionable segmenta
 - Of the top 100 customers: **16% are Champions**, **57% are Potential Loyalists**, and **27% are New Customers**
 - Champions and Potential Loyalists should be prioritised for direct outreach; New Customers respond better to introductory or cross-promotional offers
 
----
 
 ## Methodology
 
@@ -46,14 +44,12 @@ Each dimension was ranked and normalised (0–100), then combined into a weighte
 | Lost Customers | < 1.5 | Minimal engagement |
 
 
----
 
 ## Tools & Libraries
 
 - **Python** — pandas, mlxtend
 - **Tableau** — Sales dashboard
 
----
 
 ## Deliverables
 
